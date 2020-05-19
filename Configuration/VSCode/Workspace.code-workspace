@@ -1,0 +1,24 @@
+{
+
+	"folders": [
+		{"path":"../..",               "name":"___  ROOT  ___________________"},
+		{"path":"../../Configuration", "name":"___  CONFIG  _________________"},
+		{"path":"../../Documentation", "name":"___  DOCS  ___________________"},
+		{"path":"../../Source",        "name":"___  SOURCE  _________________"},
+	],
+
+	"settings": {
+		"files.exclude": {
+			"Configuration": true,
+			"Documentation": true,
+			"Source":        true,
+		},
+
+		"search.exclude": {
+			"Configuration": true,
+			"Documentation": true,
+			"Source":        true,
+		},
+	},
+
+}

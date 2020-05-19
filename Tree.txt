@@ -1,0 +1,20 @@
+<root>
+|
+|   .gitignore
+|   LICENSE
+|   package.json
+|   Tree.txt
+|
++---Configuration
+|   \---VSCode
+|           Workspace.code-workspace
+|
++---Documentation
+|       Documentation-A.txt
+|       Documentation-B.txt
+|       Documentation-C.txt
+|
+\---Source
+        Source-A.txt
+        Source-B.txt
+        Source-C.txt
