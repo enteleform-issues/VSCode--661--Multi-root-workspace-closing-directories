@@ -1,0 +1,1 @@
+# VSCode--661--Multi-root-workspace-closing-directories
